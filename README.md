@@ -30,11 +30,6 @@ This project addresses 6 real-world business requests using SQL, providing insig
 - **Purpose:** Measure monthly and overall repeat passenger behavior.
 - **Fields:** city_name, month, total_passengers, repeat_passengers, monthly_repeat_rate %, city_repeat_rate %
 
-## 📂 Files
-
-- SQL queries in the `queries/` folder
-- Sample outputs in the `output/` folder
-- Optional schema and ERD diagrams in `schema/`
 
 ## 📊 Tools Used
 
