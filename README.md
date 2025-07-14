@@ -41,14 +41,4 @@ This project addresses 6 real-world business requests using SQL, providing insig
 - **Database:** MySQL
 - **SQL Concepts:** Window functions, CTEs, JOINs, aggregations, conditional logic
 
-## 📎 How to Use
 
-1. Import `trips_db` and `targets_db` into MySQL Workbench.
-2. Execute the queries from the `queries/` folder.
-3. View the results or modify them as needed.
-
-## 🔗 Author
-
-**Your Name**  
-Looking for Power BI Developer roles | Skilled in SQL, Excel, and Data Analysis  
-[LinkedIn](#) | [GitHub](#) | [Email](#)
